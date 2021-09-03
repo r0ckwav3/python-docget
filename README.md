@@ -1,5 +1,14 @@
-# python-docget package
+# python-docget
 
-A short description of your package.
+A package for [atom](atom.io) which adds a way to search python documentation in a side panel.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+### How to download
+You can't currently (unless you just clone the repository), but eventually I'll put this on `apm`.
+
+### Current Features
+- Use `cmd+alt+p` to search a selected phrase
+- returns relevant built-in functions
+
+### Future Features
+- Also see a description of the function in the editor
+- Have a search bar in the sidebar as well
