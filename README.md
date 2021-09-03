@@ -8,7 +8,9 @@ You can't currently (unless you just clone the repository), but eventually I'll 
 ### Current Features
 - Use `cmd+alt+p` to search a selected phrase
 - returns relevant built-in functions
+- shows function defenition and documentation in-editor
 
 ### Future Features
-- Also see a description of the function in the editor
+- Better formatting
+- The sidebar opens when you first try to search
 - Have a search bar in the sidebar as well
