@@ -1,0 +1,21 @@
+{
+  "name": "python-docget",
+  "main": "./lib/python-docget",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "python-docget:toggle"
+  },
+  "repository": "https://github.com/atom/python-docget",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "deserializers": {
+    "python-docget/PythonDocgetView": "deserializePythonDocgetView"
+  }
+}

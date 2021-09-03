@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Search Python Docs",
+        "command": "python-docget:search"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "python-docget",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "python-docget:toggle"
+            },
+            {
+              "label": "Search",
+              "command": "python-docget:search"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
