@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "python-docget:toggle"
   },
-  "repository": "https://github.com/atom/python-docget",
+  "repository": "https://github.com/r0ckwav3/python-docget",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
