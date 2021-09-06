@@ -3,7 +3,6 @@ Bugs:
 - some pages reference images that atom doesn't like (because I don't have the images locally)
 
 Possible new features:
-- random.randint works correctly
 - better search priority (eg builtins go first)
 - the ability to scroll
 
