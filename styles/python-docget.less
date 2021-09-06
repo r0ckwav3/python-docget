@@ -5,12 +5,25 @@
 @import "ui-variables";
 
 .python-docget{
+  color: @text-color;
   margin-left: 20px;
   margin-right: 10px;
+
+  .input-block{
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
 }
 
 .python-docget .input-block{
-  margin-right: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  .input-editor{
+    flex: 1 1 auto;
+  }
+  .btn{
+    flex: 0 1 auto;
+  }
 }
 //
 // .python-docget .panel-contents{
