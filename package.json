@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "python-docget:toggle"
+    "atom-workspace": "python-docget:toggle",
+    "atom-workspace": "python-docget:search"
   },
   "repository": "https://github.com/r0ckwav3/python-docget",
   "license": "MIT",
