@@ -1,6 +1,6 @@
 # python-docget
 
-A package for [Atom](atom.io) which adds a way to search python documentation in a side panel.
+A package for [Atom](https://atom.io) which adds a way to search python documentation in a side panel.
 
 ### Installation
 Install this package through the Atom Package Manager by running:
